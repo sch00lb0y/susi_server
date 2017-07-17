@@ -4,39 +4,54 @@
    :maxdepth: 1
    :caption: Contents
 
-   commitStyle
    parsers
+   commitStyle
 
 .. toctree::
    :maxdepth: 1
    :caption: Installation
 
-   installation/installation_kubernetes_gcloud
-   installation/installation_docker_digitalocean
-   installation/installation_docker_aws
-   installation/installation_cloud9
+   installation/installation_docker_gcloud
+   installation/installation_windows_generic
    installation/installation_docker
    installation/installation_heroku
-   installation/installation_windows_generic
-   installation/installation_docker_bluemix
-   installation/installation_generic
+   installation/installation_cloud9
    installation/eclipseSetup
-   installation/installation_docker_gcloud
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Skills
-
-   skills/susi_chat_api
-   skills/susi_questions
-   skills/submitting_skills_to_git
-   skills/susi_skill_development_tutorial
+   installation/installation_docker_aws
+   installation/installation_kubernetes_gcloud
+   installation/installation_generic
+   installation/installation_docker_digitalocean
+   installation/installation_docker_bluemix
 
 .. toctree::
    :maxdepth: 1
    :caption: Aaa
 
    aaa/about
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Skills
+
+   skills/susi_questions
+   skills/susi_skill_development_tutorial
+   skills/submitting_skills_to_git
+   skills/susi_chat_api
+
+
+
+
 API Documentation
-================= 
+
+
+
+
+=================
+
+
+
+
 * `javadoc <./javadoc>`_
+
+
+
